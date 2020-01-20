@@ -21,6 +21,7 @@ public class StudentDemo {
            String student = name;
            students [i]=student;
            System.out.println(student);
+           System.out.println("Hello, the world");
        }
     }
 
